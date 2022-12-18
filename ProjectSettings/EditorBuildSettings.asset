@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UI.unity
+    guid: fc35cea207aa0cb41a329cf344fab089
+  - enabled: 1
+    path: Assets/Scenes/KoboldMines.unity
+    guid: fe0cc08cf28282d419f7d800c5b59d48
+  m_configObjects: {}
